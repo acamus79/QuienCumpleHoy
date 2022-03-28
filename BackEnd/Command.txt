@@ -1,0 +1,17 @@
+Command List to deploy in heroku
+
+cd QuienCumpleHoy
+
+heroku login
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+heroku apps:create quiencumple
+
+git push heroku main
+
+or git push heroku master
