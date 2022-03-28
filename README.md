@@ -1,6 +1,6 @@
 # Quien Cumple Hoy
 
-QuienCumpleHoy APP, es una aplicación de escritorio desarrollada con fines educativos, para su desarrollo se utilizaron 12 horas de codificación mucho amor y las siguientes tecnologías:
+QuienCumpleHoy APP, es una aplicación MVP de escritorio desarrollada con fines educativos, para su desarrollo se utilizaron 12 horas de codificación mucho amor y las siguientes tecnologías:
 
 <div style="display: inline_block"><br>
   
@@ -13,3 +13,5 @@ QuienCumpleHoy APP, es una aplicación de escritorio desarrollada con fines educ
   <img align="center" alt="acamus-ELECTRON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
    
 </div>
+
+##
