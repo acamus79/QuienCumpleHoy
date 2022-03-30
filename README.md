@@ -2,6 +2,10 @@
 
 [![](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/acamus79/QuienCumpleHoy) [![](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/acamus79/QuienCumpleHoy) [![](https://forthebadge.com/images/badges/made-with-java.svg)](https://github.com/acamus79/QuienCumpleHoy)
 
+##
+QuienCumpleHoy APP, is a desktop MVP application developed for educational purposes, for its development 12 hours of coding, a lot of love, and the following technologies were used:
+
+##
 QuienCumpleHoy APP, es una aplicación MVP de escritorio desarrollada con fines educativos, para su desarrollo se utilizaron 12 horas de codificación mucho amor y las siguientes tecnologías:
 
 <div style="display: inline_block">
